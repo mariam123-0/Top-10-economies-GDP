@@ -74,6 +74,3 @@ The final, cleaned dataset is saved locally as **`Largest_economies.csv`**, and 
 
 Data scraped from Wikipedia's *"List of countries by GDP (nominal)"* page (archived version via web.archive.org), correct as of the archive snapshot date. GDP figures are nominal, in current USD, and subject to change over time as newer estimates are published.
 
----
-
-⭐ If you find this useful, feel free to star the repo or connect with me!
